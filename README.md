@@ -44,9 +44,9 @@ Then open http://127.0.0.1:8000
 
 
 ## API Endpoints
-Method          Endpoint        	Description
-GET	            /	                Welcome message
-POST	          /predict	        Returns sentiment analysis of input text
+
+GET - / - Welcome message
+POST - /predict - Returns sentiment analysis of input text
 
 
 
